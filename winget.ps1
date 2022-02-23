@@ -1,0 +1,13 @@
+winget install Nvidia.GeForceExperience
+winget install Logitech.GHUB
+winget install Microsoft.VisualStudioCode 
+winget install Google.Drive 
+winget install GitHub.GitHubDesktop 
+winget install Discord.Discord
+winget install EpicGames.EpicGamesLauncher
+winget install Valve.Steam
+winget install GOG.Galaxy
+winget install CloudImperiumGames.RSILauncher
+winget install GIMP.GIMP
+winget install BlenderFoundation.Blender
+winget install Microsoft.VisualStudio.2022.Community
